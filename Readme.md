@@ -1,6 +1,7 @@
 #Overview of repo and individual scripts:
 
 ##datadownload.py
+
 ###Basic Functionality
 the Python script "datadownload.py" scrapes publicly available data from the following sources:
 
