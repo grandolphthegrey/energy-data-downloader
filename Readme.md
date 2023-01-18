@@ -15,7 +15,7 @@ this script also downloads subscription based data from Platts:
   - Gas Daily Prices
   - Megawatt Daily Prices
 
-Valid credentials are needed to download the data from Platts
+Note that valid credentials are needed to download the data from Platts
 
 Each data source runs in its own function and saves the output to Excel format
 
